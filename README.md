@@ -18,7 +18,7 @@ This web application provides an interactive dashboard for exploring car sales a
 ## 🚀 How to Run Locally
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/abdalafo98/project_s4
+   git clone https://github.com/abdalafo98/Car-Sales-Dashboard
    cd project_s4
 
 2. **Install Dependencies:**
